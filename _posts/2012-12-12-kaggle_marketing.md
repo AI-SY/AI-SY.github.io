@@ -528,7 +528,8 @@ sns.heatmap(data.isnull(), cbar=False)
 
 
     
-![png](output_9_1.png)
+![output_9_1](https://user-images.githubusercontent.com/66361526/145707805-5f0ecabf-c843-4b7f-ae9e-ff6ea7756cea.png)
+
     
 
 
@@ -719,7 +720,7 @@ sns.heatmap(data.corr(), annot=True)
 
 
     
-![png](output_16_1.png)
+![output_16_1](https://user-images.githubusercontent.com/66361526/145707830-7a8b28e6-7844-4981-adf1-4e760c165927.png)
     
 
 
@@ -1152,7 +1153,7 @@ sns.heatmap(df.corr(), annot=True)
 
 
     
-![png](output_18_1.png)
+![output_18_1](https://user-images.githubusercontent.com/66361526/145707855-18951687-2022-4081-a89f-35db9d957104.png)
     
 
 
@@ -1302,7 +1303,7 @@ sns.heatmap(df.corr(), annot=True)
 
 
     
-![png](output_27_1.png)
+![output_27_1](https://user-images.githubusercontent.com/66361526/145707874-8db19d66-77ab-4e99-9507-5601f2e15a10.png)
     
 
 
@@ -1317,7 +1318,7 @@ plt.show()
 
 
     
-![png](output_28_0.png)
+![output_28_0](https://user-images.githubusercontent.com/66361526/145707881-219110b0-428a-4e06-99b2-ba0a5c4a75c6.png)
     
 
 
@@ -1338,7 +1339,7 @@ sns.scatterplot(data=df,
 
 
     
-![png](output_29_1.png)
+![output_29_1](https://user-images.githubusercontent.com/66361526/145707883-adb15950-6a12-4d79-9fa9-e5740491e9dd.png)
     
 
 
@@ -1405,7 +1406,7 @@ sns.lmplot(x = 'Income', y = 'Expenses', data = df, hue = 'Marital_Status')
 
 
     
-![png](output_32_1.png)
+![output_32_1](https://user-images.githubusercontent.com/66361526/145707885-0a130ca5-d743-478d-a82b-08487ed1ad80.png)
     
 
 
